@@ -1,4 +1,4 @@
-<!-- SeleniumBase Docs -->
+££<!-- SeleniumBase Docs -->
 
 <meta property="og:site_name" content="SeleniumBase">
 <meta property="og:title" content="SeleniumBase: Python Web Automation and E2E Testing" />
